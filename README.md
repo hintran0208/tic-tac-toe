@@ -3,6 +3,8 @@
 A simple tic tac toe game using vanilla javascript.
 This repo is used for learning purpose.
 
+![tic tac toe game](./images/thumbnail.png)
+
 ## Game elements
 
 | Element             | Available class    | Desc                                    |
