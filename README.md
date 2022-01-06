@@ -56,3 +56,5 @@ H1 --YES--> H3(End game);
 G --> I(Click replay)
 I --> J(Reset game)
 ```
+
+![game flow](./images/gameflow.png)
